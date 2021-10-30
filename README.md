@@ -9,12 +9,10 @@ If you have any more questions, you can check out my [website](https://iamchrisc
 
 Here are a few fun facts about me:
 
-    I work as a fulltime Data Engineer for an awesome company out of California. If you want to learn more, my resume is available.
+I work as a fulltime Data Engineer for an awesome company out of California.
 
-    I have a number of cool projects that I work on (at least I think they’re cool).
+I currently do a little bit of freelance work, provided there are no conflicts with my day-job.
 
-    I currently do a little bit of freeelance work, provided there is no conflict with my fulltime job.
+I write a few blog posts every now and then on my website, feel free to check them out.
 
-    I write a few blog posts every now and then when something is on my mind, feel free to peruse at your leisure.
-
-    My favorite animal is the capybara.
+My favorite animal is the Capybara.
