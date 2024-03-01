@@ -9,7 +9,7 @@ If you have any more questions, you can check out my [website](https://iamchrisc
 
 Here are a few fun facts about me:
 
-I work as a fulltime Data Engineer for an awesome company out of California.
+I work as a fulltime Data Engineer for an awesome company out of Washington.
 
 I currently do a little bit of freelance work, provided there are no conflicts with my day-job.
 
